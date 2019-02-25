@@ -11,5 +11,9 @@ class CreateUsers < ActiveRecord::Migration[5.2]
       t.timestamps
     end
   end
+<<<<<<< HEAD
 
+=======
+  
+>>>>>>> 7f085de209bc18e15555530299d209c940c9be71
 end

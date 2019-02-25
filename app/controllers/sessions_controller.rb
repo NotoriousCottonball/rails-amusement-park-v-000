@@ -13,10 +13,18 @@ class SessionsController < ApplicationController
       redirect_to login_path
     end
   end
+<<<<<<< HEAD
 
+=======
+  
+>>>>>>> 7f085de209bc18e15555530299d209c940c9be71
   def destroy
     reset_session
     redirect_to root_path
   end
 
+<<<<<<< HEAD
  end
+=======
+ end
+>>>>>>> 7f085de209bc18e15555530299d209c940c9be71

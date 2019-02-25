@@ -1,4 +1,5 @@
 class UsersController < ApplicationController
+<<<<<<< HEAD
 
   def index
     @users = User.all
@@ -39,4 +40,6 @@ class UsersController < ApplicationController
     )
    end
 
+=======
+>>>>>>> 3e4e94c9cbbb7da13a7feef6fc6a662de8554a30
 end
